@@ -1,10 +1,9 @@
 safe: true
-# source: <your pages repo>
-# destination: <the build dir>
 lsi: false
 pygments: true
 name: Thomas Reggi's Blog
 description: A blog reguarding many things.
-url: http://localhost:4000
+url: http://reggi.github.com/blog/
+baseurl: http://reggi.github.com/blog/
 auto: true
 permalink: pretty
