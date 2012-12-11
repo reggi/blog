@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hello World
-
+passworded: true
+password: beyond
 ---
 
 This is very interesting. I can edit this markdown file and it changes an entire post!

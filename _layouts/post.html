@@ -5,12 +5,20 @@ layout: default
 
 <div class="post">
 
-	<h2>{{ page.title }}</h2>
-	<span class="date">{{ page.date | date_to_string }}</span>
+    {% if page.passworded != true %}
 
-	<div class="entry">{{ content }}</div>
+	   <h2>{{ page.title }}</h2>
+	   <span class="date">{{ page.date | date_to_string }}</span>
 
-	<span class="meta"></span>
+	   <div class="entry">{{ content }}</div>
+
+	   <span class="meta"></span>
+
+    {% else %}
+
+        <p> This page is password protected </p>
+
+    {% endif %}
 
 </div>
 

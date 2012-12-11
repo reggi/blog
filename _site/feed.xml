@@ -3,7 +3,7 @@
 	<channel>
 		<title>Thomas Reggi's Blog</title>
 		<description>A blog reguarding many things.</description>
-		<link>http://localhost:4000</link>
+		<link>http://reggi.github.com/blog</link>
 		
 			<item>
 				<title>This is just a Test</title>
@@ -11,7 +11,7 @@
 
 &lt;p&gt;Proin feugiat libero ac lorem mollis fermentum. Cras et lacus sodales nisl facilisis ornare. Sed dolor eros, pulvinar ac varius non, bibendum eget odio. Nulla facilisi. Pellentesque et nisi a tellus ullamcorper faucibus. Nullam sagittis tempor mi non mattis. Proin ultricies, enim sit amet bibendum tristique, ligula ante feugiat nunc, sit amet imperdiet tortor nisl et felis. Pellentesque et nisl dui, non dictum libero. Vivamus tempor ante ac leo suscipit a sodales ligula iaculis. Curabitur massa mi, semper sed bibendum eget, auctor in nulla. Quisque at mi in ligula viverra suscipit sed vitae leo.&lt;/p&gt;</description>
 				<published>Thu Jan 19 00:00:00 -0500 2012</published>
-				<link>http://localhost:4000/2012/01/19/testing/</link>
+				<link>http://reggi.github.com/blog/2012/01/19/testing/</link>
 			</item>
 		
 			<item>
@@ -26,7 +26,7 @@
 * Lamp
 * JavaScript&lt;/code&gt;&lt;/pre&gt;</description>
 				<published>Wed Jan 18 00:00:00 -0500 2012</published>
-				<link>http://localhost:4000/2012/01/18/hello/</link>
+				<link>http://reggi.github.com/blog/2012/01/18/hello/</link>
 			</item>
 		
 	</channel>
