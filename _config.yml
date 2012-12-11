@@ -1,0 +1,10 @@
+safe: true
+# source: <your pages repo>
+# destination: <the build dir>
+lsi: false
+pygments: true
+name: Thomas Reggi's Blog
+description: A blog reguarding many things.
+url: http://localhost:4000
+auto: true
+permalink: pretty

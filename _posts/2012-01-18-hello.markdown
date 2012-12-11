@@ -1,0 +1,16 @@
+---
+layout: post
+title: Hello World
+
+---
+
+This is very interesting. I can edit this markdown file and it changes an entire post!
+
+Let's make a list of some of my favorite thinguzuahs.
+	
+	* Mayonnaise
+	* Rice
+	* Headphones
+	* Lamp
+	* JavaScript
+	
